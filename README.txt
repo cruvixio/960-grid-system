@@ -1,6 +1,6 @@
 960 Grid System
-Version 1.1
-2008-12-15
+Version 1.2
+2009-06-29
 
 Created by Nathan Smith. See the official site for more info: http://960.gs/
 
